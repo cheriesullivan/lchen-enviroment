@@ -1,1 +1,1 @@
-# lchen-enviroment
+# lichen-enviroment
